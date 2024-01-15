@@ -933,75 +933,100 @@ body.rtl .elementor-9 .elementor-element.elementor-element-55002a8 {
     .elementor-9 .elementor-element.elementor-element-3029e99 img {
         width: 459px;
     }
+
     .elementor-9 .elementor-element.elementor-element-64c33e4 img {
         width: 342px;
     }
+
     .elementor-9 .elementor-element.elementor-element-cc77e9b img {
         width: 125px;
     }
+
     .elementor-9 .elementor-element.elementor-element-34789e0 img {
         width: 120px;
     }
+
     .elementor-9 .elementor-element.elementor-element-34789e0 {
         top: 557px;
     }
+
     .elementor-9 .elementor-element.elementor-element-2b4149e .elementor-heading-title {
         font-size: 150px;
     }
 }
 
 @media(max-width:767px) {
+
     .elementor-9 .elementor-element.elementor-element-ca1a07b>.elementor-element-populated {
-        padding: 150px 50px 150px 50px;
+        /* padding: 150px 50px 150px 50px; */
+        padding: 10px 0px 10px 0px;
     }
+
     .elementor-9 .elementor-element.elementor-element-3029e99 img {
         width: 226px;
     }
+
     .elementor-9 .elementor-element.elementor-element-64c33e4 img {
         width: 199px;
     }
+
     .elementor-9 .elementor-element.elementor-element-707bd77 img {
         width: 110px;
     }
+
     body:not(.rtl) .elementor-9 .elementor-element.elementor-element-f5e8212 {
         left: 89px;
     }
+
     body.rtl .elementor-9 .elementor-element.elementor-element-f5e8212 {
         right: 89px;
     }
+
     .elementor-9 .elementor-element.elementor-element-f5e8212 {
         bottom: -50px;
     }
+
     .elementor-9 .elementor-element.elementor-element-cc77e9b img {
         width: 100px;
     }
+
     .elementor-9 .elementor-element.elementor-element-34789e0 img {
         width: 85px;
     }
+
     .elementor-9 .elementor-element.elementor-element-76a44e6 img {
         width: 110px;
     }
+
     .elementor-9 .elementor-element.elementor-element-fb55bde .elementor-heading-title {
         font-size: 20px;
     }
+
     .elementor-9 .elementor-element.elementor-element-2b4149e .elementor-heading-title {
-        font-size: 50px;
+        /* font-size: 50px; */
+        font-size: 25px;
     }
+
     .elementor-9 .elementor-element.elementor-element-2b4149e>.elementor-widget-container {
         margin: 30px 0px 30px 0px;
     }
+
     .elementor-9 .elementor-element.elementor-element-f4b67a4 .elementor-heading-title {
         font-size: 50px;
     }
+
     .elementor-9 .elementor-element.elementor-element-933d2ea>.elementor-element-populated {
         border-width: 0px 0px 0px 0px;
     }
+
     .elementor-9 .elementor-element.elementor-element-214d825>.elementor-element-populated {
         padding: 20px 0px 20px 0px;
     }
+
     .elementor-9 .elementor-element.elementor-element-f8d663e>.elementor-element-populated {
         border-width: 0px 0px 0px 0px;
     }
+
     .elementor-9 .elementor-element.elementor-element-8bd6780 .elementor-heading-title {
         line-height: 1.5em;
     }
